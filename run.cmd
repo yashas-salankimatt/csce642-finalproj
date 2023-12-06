@@ -1,0 +1,1 @@
+python run.py -s ddpg -t 1000 -d gym_examples/SimpleCup-v0 -e 150 -a 0.001 -g 0.99 -l [256,256] -b 100

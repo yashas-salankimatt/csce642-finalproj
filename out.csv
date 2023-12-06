@@ -1,0 +1,10 @@
+Domain,Solver,Episode,Rewards,Steps
+gym_examples/SimpleCup-v0,DDPG,1,-2008.0900935261027,493
+gym_examples/SimpleCup-v0,DDPG,2,-577.9161350246237,222
+gym_examples/SimpleCup-v0,DDPG,3,-580.3791669064522,224
+
+gym_examples/SimpleCup-v0,DDPG,1,-2755.78457497833,440
+
+gym_examples/SimpleCup-v0,DDPG,1,-2686.2876691662013,434
+
+gym_examples/SimpleCup-v0,DDPG,1,-3279.6362036184532,507
